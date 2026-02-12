@@ -1,2 +1,2 @@
 # my-first-SQL-Project
-Learning Basic SQL
+Learning Basic SQL like Select
