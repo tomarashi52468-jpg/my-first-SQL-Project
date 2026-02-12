@@ -1,3 +1,4 @@
+--my first sql file
 SELECT *
 FROM employees;
 SELECT department, COUNT(*)
